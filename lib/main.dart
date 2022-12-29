@@ -123,7 +123,6 @@ class _HomePageState extends State<HomePage> {
                   Container(
                     height: 175,
                     decoration: BoxDecoration(
-                      color: Colors.amber,
                       borderRadius: BorderRadius.circular(20),
                       image: DecorationImage(
                         fit: BoxFit.cover,
