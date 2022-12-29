@@ -1,6 +1,6 @@
 # artist_inspo_ui
 
-A new Flutter project.
+Flutter app UI
 
 ## Development Setup
 Clone the repository and run the following commands:
@@ -11,4 +11,4 @@ flutter run
 
 ## ScreenShots
 
-<img src="assets/screenshot/1.png" height="500em" /> &nbsp; <img src="assets/screenshot/2.png" height="500em" />
+<img src="assets/screenshots/1.png" height="500em" /> &nbsp; <img src="assets/screenshots/2.png" height="500em" />
