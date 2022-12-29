@@ -1,7 +1,5 @@
 # Flutter App
 
-## ScreenShots
-
 <img src="assets/screenshots/1.png" height="500em" /> &nbsp; <img src="assets/screenshots/2.png" height="500em" />
 
 ## Development Setup
